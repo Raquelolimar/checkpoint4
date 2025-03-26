@@ -1,7 +1,7 @@
 
 import math
 
-1.
+1
  
 
 list= ['Alba', 'Ibai', 'Zuri']
