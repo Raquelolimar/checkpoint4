@@ -3,7 +3,6 @@ import math
 
 1
  
-
 list= ['Alba', 'Ibai', 'Zuri']
 print(list)
 
